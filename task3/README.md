@@ -6,7 +6,7 @@
 
 2. The transaction hash from the console output (in text format).
 
-   `0x65a0ae8d9a89efc2a741df2248cef747df5d66e24ca3b9275658e162c4f7c1c5`
+   `0x9948d7fc301e6b851571a1810783cfb5afbad10fb534a984fb639628aa7f885e`
 
 3. The contract address that you called (in text format).
 
