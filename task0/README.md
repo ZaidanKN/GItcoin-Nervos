@@ -1,10 +1,12 @@
 # Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet
 
-#CKB Node :
-![ckb-node]
-(https://raw.githubusercontent.com/ZaidanKN/Gitcoin-Nervos/main/task0/ckb-node.png)
+## CKB Node
+
+A screenshot of the console output from your local Testnet CKB Node after it has fully synchronized with the network.
+![](ckb-node.png)
 
 
-#CKB Indexer :
-![ckb-indexer]
-(https://raw.githubusercontent.com/ZaidanKN/Gitcoin-Nervos/main/task0/ckb-indexer.png)
+## CKB Indexer
+
+A screenshot of the console output from your local CKB Indexer after it has fully synchronized with the local Testnet CKB Node.
+![](ckb-indexer.png)
